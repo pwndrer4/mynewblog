@@ -30,8 +30,5 @@ mathjax: true
 
 ## ICS实验部分 ##
 
-<<<<<<< HEAD
 ![ICS](../postimg/2019-03-14-ICS-test.png)
-=======
-![ICS](../postimg/2019-03-14-ICS-test.png)
->>>>>>> a68454ab3cae64bc19f0d7fd82001eda88f2bc59
+

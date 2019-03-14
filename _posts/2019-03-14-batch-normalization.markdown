@@ -30,4 +30,4 @@ mathjax: true
 
 ## ICS实验部分 ##
 
-![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-test.png)
+![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-test.png?raw=true)

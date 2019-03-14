@@ -12,7 +12,7 @@ type: page
 
 `Wonderseen`, senior student in Xiamen University.
 
-This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen.github.io/CV-wonderseen.pdf).
+This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen.github.io/blob/master/CV-wonderseen.pdf).
 
 ## Research Field
 

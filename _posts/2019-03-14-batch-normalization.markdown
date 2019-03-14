@@ -2,8 +2,8 @@
 layout: post
 title:  "笔记: 2018 NIPS How Does BN Help Optimization"
 date:   2019-03-13 23:14:50
-categories: DL
-tags: Optimization
+categories: Optimization
+tags: Optimization DL
 excerpt: 关于BN的笔记"How Does BN help Optimizaiton?"
 mathjax: true
 ---
@@ -26,8 +26,8 @@ mathjax: true
 
 注意:往往BN总是在非线性层之前进行的，比如Relu。
 
-![image](https://github.com/wonderseen/wonderseen.github.io/blob/master/img/postimg/2019-03-14vgg-test.png) 
+![image](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14vgg-test.png) 
 
 ## ICS实验部分 ##
 
-![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/img/postimg/2019-03-14-ICS-test.png)
+![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-test.png)

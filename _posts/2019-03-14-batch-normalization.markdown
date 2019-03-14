@@ -26,9 +26,9 @@ mathjax: true
 
 注意:往往BN总是在非线性层之前进行的，比如Relu。
 
-![image](../postimg/2019-03-14vgg-test.png) 
+![image](../../../../postimg/2019-03-14vgg-test.png) 
 
 ## ICS实验部分 ##
 
-![ICS](../postimg/2019-03-14-ICS-test.png)
+![ICS](../../../../postimg/2019-03-14-ICS-test.png)
 

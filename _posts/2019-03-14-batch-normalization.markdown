@@ -2,8 +2,8 @@
 layout: post
 title:  "笔记: 2018 NIPS How Does BN Help Optimization"
 date:   2019-03-13 23:14:50
-categories: DL
-tags: Optimization
+categories: Optimization
+tags: Optimization DL
 excerpt: 关于BN的笔记"How Does BN help Optimizaiton?"
 mathjax: true
 ---
@@ -30,4 +30,8 @@ mathjax: true
 
 ## ICS实验部分 ##
 
+<<<<<<< HEAD
 ![ICS](../postimg/2019-03-14-ICS-test.png)
+=======
+![ICS](../postimg/2019-03-14-ICS-test.png)
+>>>>>>> a68454ab3cae64bc19f0d7fd82001eda88f2bc59

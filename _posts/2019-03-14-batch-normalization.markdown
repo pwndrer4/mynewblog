@@ -8,7 +8,7 @@ excerpt: 关于BN的笔记"How Does BN help Optimizaiton?"
 mathjax: true
 ---
 
-## 总结 ##
+## 主要内容 ##
 
 首先，关于BN为什么work，最广为流传的是：
 

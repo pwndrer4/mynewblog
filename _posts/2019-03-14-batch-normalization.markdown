@@ -36,13 +36,13 @@ mathjax: true
 
 ## ICS前期实验 ##
 
-![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-test.png?raw=true)
-
 ### 实验设计
 
 训练后，可视化随机的batch在输入层的分布。
 
 ### 实验结果分析
+
+![ICS](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-test.png?raw=true)
 
 在输入层的分布稳定上，差异并不大。（意思可能是：虽然，主体的偏移和高密度区域一致，但是在低概率上分布还是有偏差的）。
 

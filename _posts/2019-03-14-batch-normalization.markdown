@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 ## 总结 ##
----
+
 首先，关于BN为什么work，最广为流传的是：
 
 * BN控制了输入层的分布(均值、方差)变化，成功地减少了*internal covariate shift **(ICS)***
@@ -32,7 +32,7 @@ mathjax: true
 
 实验的Performance这个很明显，不多说。
 
-![image](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14vgg-test.png) 
+![image](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14vgg-test.png?raw=true) 
 
 ## ICS前期实验 ##
 
@@ -63,13 +63,13 @@ mathjax: true
 
 ### 实验结果分析
 
-![fig8](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-comparison.png)
+![fig8](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-ICS-comparison.png?raw=true)
 
 上图记录了训练的每个step中，网络的指定层的均值和方差的单步变化值（时序上的差分）和与网络初始状态的差异值。
 
 根据上图和下图右侧可以体现：注入噪声的网络，在后层的参数分布更不稳定。
 
-![fig2](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-BN-noise-experiments.png)
+![fig2](https://github.com/wonderseen/wonderseen.github.io/blob/master/postimg/2019-03-14-BN-noise-experiments.png?raw=true)
 
 然而，根据最终的训练准确度可以发现，带BN的网络中ICS的增加，并没有对模型的性能产生明显的影响，并且均高于不加BN层且不注入噪声的网络。
 

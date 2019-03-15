@@ -8,7 +8,7 @@ excerpt: 关于BN的笔记"How Does BN help Optimizaiton?"
 mathjax: true
 ---
 
-## 主要内容 ##
+# 主要内容 ##
 
 首先，关于BN为什么work，最广为流传的是：
 
@@ -20,7 +20,7 @@ mathjax: true
 * 光滑平面诱导了更稳定的梯度下降过程，有利于更快地训练
 
 
-## 前期实验 ##
+# 前期实验 ##
 
 ### 实验设计
 
@@ -53,7 +53,7 @@ mathjax: true
 1. BN的有效性是否真的和ICS相关？
 2. BN所造成的层输入分布稳定性是否确实减少的ICS?
 
-## 探究实验：BN之所以work是否和ICS有关 ##
+# 探究实验：BN之所以work是否和ICS有关 ##
 
 ### 实验设计：
 
@@ -79,4 +79,6 @@ mathjax: true
 
 BN之所以有效，和ICS的控制关系不大。
 
-## 探究实验： BN是否减少了ICS ##
+# 探究实验： BN是否减少了ICS ##
+
+continuing

@@ -29,10 +29,9 @@ This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen
 
 ## Contact
 
+* [CSDN：wonderseen](https://blog.csdn.net/wonderseen/)
 * [GitHub：wonderseen](https://github.com/wonderseen)
 * Email：247226176@qq.com
-* [CSDN](https://blog.csdn.net/wonderseen/)
-
 
 ### Update Log
 

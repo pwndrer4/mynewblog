@@ -10,7 +10,7 @@ mathjax: true
 
 原文地址：[How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)
 
-作者： Shibani Santurkar，Dimitris Tsipras, Andrew Ilyas, Aleksander M ˛ adry
+作者： Shibani Santurkar，Dimitris Tsipras, Andrew Ilyas, Aleksander Madry
 
 ## 1. 主要内容 
 

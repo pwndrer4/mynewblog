@@ -65,6 +65,11 @@ type: page
 
 * [设计模式（c++）](https://www.bilibili.com/video/av24176315?from=search&seid=14312893706442451047)
 
+## 收集的博客
+
+* [7color](https://7color94.github.io/)
+* [chybeta](https://chybeta.github.io/)
+
 ## GitBook 及其插件
 
 * [Gitbook 的使用和常用插件 -赵达](http://zhaoda.net/2015/11/09/gitbook-plugins/)

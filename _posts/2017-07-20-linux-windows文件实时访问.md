@@ -14,7 +14,7 @@ mathjax: true
 
 但是比赛场地设备太多，信号嘈杂，m100通过蓝牙传向地面站的数据经常丢失，得到的数据实在不能用。
 
-![实时访问数据后地面站做的预测](https://raw.githubusercontent.com/wonderseen/wonderseen.github.io/master/postimg/2017-07-20-flightdata.png)
+![实时访问数据后地面站做的预测](https://raw.githubusercontent.com/wonderseen/wonderseen.github.io/master/postimg/2017-07-20-prediction-flightdata.png)
 
 所以，后来直接把m100的飞行数据记录在机载电脑里；地面站使用局域网访问机载电脑，得到的数据才相对稳定可以进行飞行预测。
 

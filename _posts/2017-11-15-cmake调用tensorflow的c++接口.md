@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bazel "
+title:  "tensorflow通过cmake调用c++接口"
 date:   2017-11-15 03:00:00
-categories: tensorflow通过cmake调用c++接口
-tags: Linux
-excerpt: 主要记录linux如何通过局域网访问windows共享文件夹
+categories: tensorflow cmake c++
+tags: Linux cmake
+excerpt: tensorflow通过cmake调用c++接口
 mathjax: true
 ---
 

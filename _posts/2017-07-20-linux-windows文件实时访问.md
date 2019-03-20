@@ -2,7 +2,7 @@
 layout: post
 title:  "linux与windows局域网互访"
 date:   2017-07-20 13:00:00
-categories: windows和linux系统之间的系统实时互访
+categories: linux
 tags: Linux
 excerpt: 主要记录linux如何通过局域网访问windows共享文件夹
 mathjax: true

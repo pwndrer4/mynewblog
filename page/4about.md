@@ -27,6 +27,16 @@ This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen
 * 2019-2022 Tianjin University, *Computer Science and Technology*
 * 2015-2019 Xiamen University, *Automation*
 
+## Research
+
+* 2019.1    A Novel fuzzy c-Means Clustering Algorithm Using Adaptive Norm. *INT J Fuzzy SYST(IF=2.396)*.
+* 2018.5    A Method of Gesture Recognition Based on Morphology. on *IEEE/CSAA 2018 conf*
+
+## Award
+* 2018.3   Tianchi: Fashion AI Global Pose Location Competition, rank top %5
+* 2018.8   Second Prize for Systems Planning in 2018 International Air Robot Competition
+* 2017.8   First Prize for Systems Planning in 2017 International Air Robot Competition
+
 ## Contact
 
 * [CSDN：wonderseen](https://blog.csdn.net/wonderseen/)

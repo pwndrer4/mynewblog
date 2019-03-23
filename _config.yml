@@ -7,7 +7,7 @@
 
 # Site settings
 title: Wonderseen的技术专栏
-brief-intro: CV & FCM & NLP
+brief-intro: 主攻优化理论、计算机视觉
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wonderseen.github.io" # the base hostname & protocol for your site
 

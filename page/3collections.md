@@ -69,6 +69,7 @@ type: page
 
 * [7color](https://7color94.github.io/)
 * [chybeta](https://chybeta.github.io/)
+* [Xiu-Shen Wei](http://lamda.nju.edu.cn/weixs/?AspxAutoDetectCookieSupport=1)
 
 ## GitBook 及其插件
 

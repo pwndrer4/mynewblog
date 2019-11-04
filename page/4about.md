@@ -30,7 +30,7 @@ This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen
 
 ## Research
 
-* 2019.1    A Novel fuzzy c-Means Clustering Algorithm Using Adaptive Norm. accepted by *INT. J. Fuzzy SYST.(IF=3.085)* 2019.
+* 2019.1    A Novel fuzzy c-Means Clustering Algorithm Using Adaptive Norm. accepted by *INT. J. Fuzzy SYST.(IF=3.085)* [pdf](http://link.springer.com/article/10.1007/s40815-019-00740-9).
 * 2018.5    A Method of Gesture Recognition Based on Morphology. on *IEEE/CSAA 2018 conf*
 
 ## Award

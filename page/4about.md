@@ -10,9 +10,10 @@ type: page
 {:toc}
 
 
-`Wonderseen`, senior student in Xiamen University.
+`Wonderseen`, a graduate student of Xiamen University. Interested in ComputerVision & MachineLearning. 
+Now I am working on multimodal-learning, mainly on commonsense reasoning.
 
-This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen.github.io/blob/master/CV-wonderseen.pdf).
+This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen.github.io/blob/master/CV-wonderseen.pdf)(2018.12).
 
 ## Research Field
 
@@ -22,26 +23,27 @@ This is a link to [my Personal profile](https://github.com/wonderseen/wonderseen
 
 ## Experience
 
-* 2018.7    DeepGlint R&D Engineer Intern offer
-* 2018-2019 TuSimple Campus Ambassador
 * 2019-2022 Tianjin University, *Computer Science and Technology*
+* 2018-2019 TuSimple Campus Ambassador
+* 2018.7    DeepGlint R&D Engineer Intern offer
 * 2015-2019 Xiamen University, *Automation*
 
 ## Research
 
-* 2019.1    A Novel fuzzy c-Means Clustering Algorithm Using Adaptive Norm. *INT J Fuzzy SYST(IF=2.396)*.
+* 2019.1    A Novel fuzzy c-Means Clustering Algorithm Using Adaptive Norm. accepted by *INT. J. Fuzzy SYST.(IF=3.085)* 2019.
 * 2018.5    A Method of Gesture Recognition Based on Morphology. on *IEEE/CSAA 2018 conf*
 
 ## Award
-* 2018.3   Tianchi: Fashion AI Global Pose Location Competition, rank top %5
+
 * 2018.8   Second Prize for Systems Planning in 2018 International Air Robot Competition
+* 2018.3   Tianchi: Fashion AI Global Pose Location Competition, rank top %5
 * 2017.8   First Prize for Systems Planning in 2017 International Air Robot Competition
 
 ## Contact
 
 * [CSDN：wonderseen](https://blog.csdn.net/wonderseen/)
 * [GitHub：wonderseen](https://github.com/wonderseen)
-* Email：247226176@qq.com
+* Email：wonderseen@outlook.com
 
 ## Update Log
 

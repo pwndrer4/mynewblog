@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Collections
 permalink: /collection/
@@ -11,31 +11,15 @@ type: page
 
 ## Deep Learning
 
-* [Model Zoo](https://modelzoo.co/)
+
+
+* [Github](https://github.com/)
+
+全球最大的免费代码托管平台
     
-    收集了深度学习各种领域的各个框架下的权威模型，特别干货。
+* [Gitee](https://gitee.com)
 
-* [mmdetection](https://github.com/open-mmlab/mmdetection)
-
-    商汤的目标检测开源代码，基于pytorch，口碑和代码易读性优于Detectron。
-
-* [Deep Learning Chinese Version](https://github.com/exacity/deeplearningbook-chinese)
-
-    强大的网友合力翻译的花书中文版。
-
-* [Coursera Site](https://www.coursera.org/)
-
-    闻名的斯坦福公开课，不过付费的课程真不便宜。
-
-* [cs231a](https://web.stanford.edu/class/cs231a/)
-    
-    斯坦福CS课程，更新至2018年冬季，教学ppt可下载。
-
-    涉及 `相机几何模型` 以及 `low到high level的视觉技术`，包括 `filtering`、`Seg`、`clustering`、`单目的shape reconstruction` 、`recognition` 、`detection` 以及 `human motion` 。
-
-    所需知识储备： `线性代数` 、`初等概率统计` 。
-
-    课后作业挺有挑战性，努力完成作业很有帮助。影像方面，最新能找到的只有b站的2017年的cs231n教学视频。和cs231n相比，cs231a更侧重3d匹配、重建等任务，所教学的内容更广泛。
+   国内最大且速度最快的免费代码托管平台
 
 ## Optimization
 

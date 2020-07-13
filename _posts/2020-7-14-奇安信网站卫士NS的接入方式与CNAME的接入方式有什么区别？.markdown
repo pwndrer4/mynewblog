@@ -1,0 +1,24 @@
+﻿---
+layout: post
+title:  "奇安信网站卫士NS的接入方式与CNAME的接入方式有什么区别？"
+date:   2020-7-14-3:32:50
+categories: ML
+tags: Margin
+excerpt: NS的接入方式与CNAME的接入方式有什么区别？
+mathjax: true
+---
+区别：
+
+NS接入方式需要修改dns服务器为奇安信网站卫士的
+
+CNAME方式只需要修改权威dns处的解析记录，做cname记录指向奇安信网站卫士
+
+优缺点：
+
+CNAME接入缺点是：无法提供DNS攻击流量清洗
+
+CNAME接入优点是：生效快，无需等待全局DNS同步时间
+
+
+
+以上两种接入方式均可提供DDoS、CC、WEB防护及加速服务，NS接入方式同时可提供DNS防护。

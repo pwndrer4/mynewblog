@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "奇安信网站卫士白名单CDN节点IP段都有哪些？"
+title:  "奇安信网站卫士白名单CDN节点IP段都有哪些呢？"
 date:   2020-7-14-13:32:50
 categories: ML
 tags: Margin
-excerpt: 奇安信网站卫士白名单CDN节点IP段都有哪些？
+excerpt: 本文就告诉你奇安信网站卫士白名单CDN节点IP段都有哪些？
 mathjax: true
 ---
 若服务器和或机房防火墙屏蔽了奇安信网站卫士的 IP，可能会导致出现 502 报错，所以请将这些 IP 段加入您服务器和机房白名单中，防止网站卫士服务被误认为攻击而屏蔽 IP:

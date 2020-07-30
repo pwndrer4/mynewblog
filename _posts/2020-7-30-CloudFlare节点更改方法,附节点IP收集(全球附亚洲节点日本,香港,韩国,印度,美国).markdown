@@ -7,6 +7,9 @@ tags: Margin
 excerpt: 用Cloudflare CDN 如何自定义节点（CF自选IP）香港
 mathjax: true
 ---
+
+cloudflare是非常良心的企业了，它的cdn服务的口碑是非常好的，但是随着cloudflare的用户多了，还有一些不为人知的原因，cloudflare的cdn的速度越来越慢，对于中国大陆的用户来说，也是使用的美国的节点。毕竟入口带宽是有限的，所以在用网高峰期，也就是晚上是非常卡顿的。这个cloudflare也是一个非常有趣的公司，他通过cf partner提供的服务比他自己提供的服务要好一些，至少cf partner的服务可以使用cncme的接入方式和ip的接入方式，但是官网的只能使用NS方式。但cloudflare的DNS服务的体验真的不是很爽，没法暂停解析，没法编辑只能删除重建。所以大家如果不想更改NS服务器可以使用cf partner提供的服务。而且cf partner的节点据说还要快一些。这里提供两个比较稳定的cf partner的服务提供者。
+
 CloudFlare对于服务器在海外的个人博客来说，是款相当不错的免费CDN，依靠其分布于欧、美、亚三地的数据中心，在世界范围内免费为站点进行加速。其中，CF的亚洲节点在香港、澳门、日本东京等，但从国内访问托管在Cloudflare上的站点时，一般是走美国San Jose（圣何塞/圣荷西）或洛杉矶节点，所以有网友在研究更改亚洲节点的方法，将方案及CF列表明细提供如下：
 
 ——————————–
@@ -16,6 +19,10 @@ CloudFlare对于服务器在海外的个人博客来说，是款相当不错的�
 1. CF里添加域名，NS不用更改，直接在DNS管理面板里面A记录到CF任意一个IP，不用CNAME。
 
 2. CNAME绑定方案。
+
+http://cdn.bnxb.com/  本次教程使用的网站
+
+https://cf.tlo.xyz/ 稳定存在了很长时间，值得使用
 
 ——————————–
 

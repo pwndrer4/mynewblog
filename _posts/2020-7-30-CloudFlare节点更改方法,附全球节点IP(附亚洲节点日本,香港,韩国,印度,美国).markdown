@@ -815,7 +815,7 @@ CloudFlare 百度云合作 ip：
 
 官方公开的所有节点 https://www.cloudflare.com/zh-cn/ips/
 
-##IPv4
+## IPv4
 
 173.245.48.0/20
 103.21.244.0/22
@@ -833,7 +833,7 @@ CloudFlare 百度云合作 ip：
 131.0.72.0/22
 Also available as a IPv4 text list.
 
-##IPv6
+## IPv6
 
 2400:cb00::/32
 2606:4700::/32

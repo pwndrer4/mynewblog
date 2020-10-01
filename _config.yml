@@ -9,7 +9,7 @@
 title: 黄大佬的博客
 brief-intro: 一位热爱网络科技的博主
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.z68p.cn/" # the base hostname & protocol for your site
+url: "https://hblog.cf" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 

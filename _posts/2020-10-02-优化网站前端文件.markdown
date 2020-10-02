@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "优化网站前端文件"
+date:   2020-10-02-8:20:50
+categories: ML
+tags: Margin
+excerpt: 教你如何优化您网站前端文件，例如js，css
+mathjax: true
+---
+## 1.CDN
+
+将前端文件通过遍布全国、全球的cdn进行分发
+
+
+
+## 2.Jsdelivr
+
+jsdelivr是一个开发的cdn，你既然没钱买腾讯、阿里，可以啊，jsdelivr国内用的网宿科技cdn，海外是Cloudflare CDN 速度一流，并且无需您为流泪付款
+
+和其他公共cdn不同的是，这个CDN允许用户上传自己的文件分发，先创建一个Github仓库（公开），上传文件，调用地址就是
+
+https://cdn.jsdelivr.net/gh/您的用户名/仓库名/文件
+
+前段速度是不是大有优化？
+
+最后，建议大家把css放到最前面加载，js最后加载
+
+祝各位建站愉快，再见👋

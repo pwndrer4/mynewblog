@@ -10,4 +10,4 @@ type: page
 {:toc}
 
 
-黄大佬的博客：blog.z68p.cn
+黄大佬的博客：hblog.cf

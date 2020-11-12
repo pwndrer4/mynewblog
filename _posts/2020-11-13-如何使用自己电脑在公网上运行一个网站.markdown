@@ -1,11 +1,10 @@
----
+﻿---
 layout: post
 title:  "如何使用自己电脑在公网上运行一个网站"
 date:   2020-11-13-12:20:50
 categories: ML
 tags: Margin
-excerpt: 首先：第一步，插上电源，为了稳定，建议接上网线第二部，安装宝塔Windows面板：www.bt.cn
-安装ngnix/apache/iis，这里建议ngnix，性能更好第三部：创建一个网站...
+excerpt: 首先：第一步，插上电源，为了稳定，建议接上网线第二部，...
 
 mathjax: true
 ---

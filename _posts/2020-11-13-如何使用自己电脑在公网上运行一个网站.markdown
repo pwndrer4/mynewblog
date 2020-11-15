@@ -37,7 +37,7 @@ mathjax: true
 frp配置范例如下，照样改即可
 
 ```
-  [common]
+[common]
 server_addr = x.x.x.x
 server_port = 7000
 token = yourtoken

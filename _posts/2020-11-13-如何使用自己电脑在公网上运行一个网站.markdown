@@ -7,12 +7,49 @@ tags: Margin
 excerpt: 如何使用自己电脑在公网上运行一个网站
 mathjax: true
 ---
+***废话不多说，这就开始教你如何使用自己电脑在公网上运行一个网站***
+## 第一步，插上电源，为了稳定，建议接上网线
 
-首先：第一步，插上电源，为了稳定，建议接上网线
-
-第二部，安装宝塔Windows面板：www.bt.cn
+## 第二部，安装宝塔Windows面板：www.bt.cn
 
 安装ngnix/apache/iis，这里建议ngnix，性能更好
 
-第三部：创建一个网站
-未完待续...持续关注
+## 第三部：创建一个网站
+
+## 第四部：获取frp
+
+
+**本站以前有分享过frp服务器，选个能用的就行**
+
+
+[点击查看frp服务器1](https://hblog.cf/2020/10/04/Frp%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%86%E4%BA%AB(1)/)
+
+[点击查看frp服务器2](https://hblog.cf/2020/10/18/frp%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%86%E4%BA%AB(2)/)
+
+[点击查看frp服务器3](https://hblog.cf/2020/10/21/frp%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%86%E4%BA%AB(3)/)
+
+[点击查看frp服务器4](https://hblog.cf/2020/10/22/%E5%88%86%E4%BA%AB%E7%AC%AC%E5%9B%9B%E5%8F%B0frp%E6%9C%8D%E5%8A%A1%E5%99%A8/)
+
+frp配置范例如下，照样改即可
+
+(```)
+  [common]
+server_addr = x.x.x.x
+server_port = 7000
+token = yourtoken
+
+[web]
+type = http
+local_port = 80
+custom_domains = www.yourdomain.com
+(```)
+
+## 第四部：通过https访问
+
+套个cloudflare即可，使用 [奔牛网](http://cdn.bnxb.com) 进行添加和管理
+
+[点击查看自选节点教程](https://hblog.cf/2020/07/30/CloudFlare%E8%8A%82%E7%82%B9%E6%9B%B4%E6%94%B9%E6%96%B9%E6%B3%95/)
+
+[点击获取优质自选节点](https://hblog.cf/2020/10/01/cloudflare%E4%BC%98%E8%B4%A8%E8%8A%82%E7%82%B9/)
+
+全文完，感谢支持

@@ -10,11 +10,15 @@ mathjax: true
 ***废话不多说，这就开始教你如何使用自己电脑在公网上运行一个网站***
 ## 第一步，插上电源，为了稳定，建议接上网线
 
+接上网线，可避免墙的遮挡影响信号、传输更快
+
 ## 第二部，安装宝塔Windows面板：www.bt.cn
 
 安装ngnix/apache/iis，这里建议ngnix，性能更好
 
 ## 第三部：创建一个网站
+
+这个嘛，直接在宝塔面板操作即可，有手就行
 
 ## 第四部：获取frp
 
@@ -32,7 +36,7 @@ mathjax: true
 
 frp配置范例如下，照样改即可
 
-(```)
+```
   [common]
 server_addr = x.x.x.x
 server_port = 7000
@@ -42,7 +46,7 @@ token = yourtoken
 type = http
 local_port = 80
 custom_domains = www.yourdomain.com
-(```)
+```
 
 ## 第四部：通过https访问
 

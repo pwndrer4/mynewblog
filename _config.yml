@@ -7,7 +7,7 @@
 
 # Site settings
 title: 黄大爷博客
-brief-intro: 这是我的个人博客，写了一些关于网络方面的文章，也有很多是转载的，感谢您的支持
+brief-intro: 欢迎来到黄大爷博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hblog.cf" # the base hostname & protocol for your site
 

@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 挥写博客
-brief-intro: 挥写博客，提笔就写
+title: 黄大爷博客
+brief-intro: 这是我的个人博客，写了一些关于网络方面的文章，也有很多是转载的，感谢您的支持
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hblog.cf" # the base hostname & protocol for your site
 
@@ -21,7 +21,7 @@ email: 2648616832@qq.com
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自英明的站长的编译
+description_footer: 来自黄大爷的编译
 
 # comments
 # two ways to comment, only choose one, and use your own short name

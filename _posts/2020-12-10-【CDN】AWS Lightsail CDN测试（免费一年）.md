@@ -8,9 +8,6 @@ excerpt: 前几天在上管理Lightsail的时候偶然看到上面的广告写�
 mathjax: true
 ---
 AWS自己家的CDN就是CloudFront，这次的Lightsail CDN属于捆绑Lightsail销售的简化版CloudFront，那么就从价格、后台以及节点三个方面做个简单做个体验和介绍。
-
-
-
 一、价格
 Lightsail作为AWS入门级产品线，产品都是按套餐售卖的，相比于AWS自身那种按量付费来说，更适合个人站点有计划地使用。当然说实在这个CDN的价格一点都不亲民，最低也是0.07USD/G，不过放在云服务商里面价格还算可以了。
 

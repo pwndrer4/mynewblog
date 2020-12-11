@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: 右脸
+title: 友联
 permalink: /collection/
 icon: bookmark
 type: page

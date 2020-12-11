@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【CDN】AWS Lightsail CDN测试（免费一年）"
-date:   2020-10-10-8:20:50
+date:   2020-12-10-8:20:50
 categories: ML
 tags: Margin
 excerpt: 前几天在上管理Lightsail的时候偶然看到上面的广告写了个Lightsail CDN，AWS的一贯机翻没有让人失望，博主在这里愣了一小会才反应过来……

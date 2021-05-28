@@ -23,7 +23,7 @@ cloudflare的路由经常调整，下面给的图片中ip的路由走法失效�
 点评：这是目前电信最好的选择了吧！洛杉矶和圣何塞整体差不多吧，洛杉矶率好于圣何塞
 [![](https://img11.360buyimg.com/ddimg/jfs/t1/188992/38/1327/386265/60913ad2E42009dc4/7dfb7e4a170d3164.png)](https://img11.360buyimg.com/ddimg/jfs/t1/188992/38/1327/386265/60913ad2E42009dc4/7dfb7e4a170d3164.png)
 
-[![](https://img10.360buyimg.com/ddimg/jfs/t1/159003/35/13572/261693/6054b0ebE773e2661/f9159cd45a90eab3.gif)](https://img14.360buyimg.com/ddimg/jfs/t1/191811/16/1324/393445/60913ad2Ebf408d4d/b5c7ba5fca9bb9a4.png)
+[![](https://img14.360buyimg.com/ddimg/jfs/t1/191811/16/1324/393445/60913ad2Ebf408d4d/b5c7ba5fca9bb9a4.png)](https://img14.360buyimg.com/ddimg/jfs/t1/191811/16/1324/393445/60913ad2Ebf408d4d/b5c7ba5fca9bb9a4.png)
 
 选择2:欧洲level3
 [![](https://img14.360buyimg.com/ddimg/jfs/t1/193195/31/1300/403934/60922600E0bb42603/21508f8986cdc9c7.png)](https://img14.360buyimg.com/ddimg/jfs/t1/193195/31/1300/403934/60922600E0bb42603/21508f8986cdc9c7.png)

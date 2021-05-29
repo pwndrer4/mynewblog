@@ -84,7 +84,11 @@ cloudflare的路由经常调整，下面给的图片中ip的路由走法失效�
 ![A4BB146E-4B0F-4236-849F-7191498B8DF2.png](https://img10.360buyimg.com/ddimg/jfs/t1/172969/24/11850/411161/60b18c21E4d3e8b32/a05f244693cdca8f.png)
 ## 扫描
 在访问CF的节点时，节点后加上`/cdn-cgi/trace`能够获取到，其中`h`为节点IP；`colo`即为节点所在位置，采用的机场三字码表示，查询机场三字码：[点击前往](https://airport.supfree.net/)。
+
 网上找来的win批处理
+
 需要curl
+
 [点击下载](https://static.lty.fun/%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90/CF/win_bat.zip)
+
 好的，大概就是这样了，终于写完了

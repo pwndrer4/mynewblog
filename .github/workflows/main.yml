@@ -12,12 +12,6 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
-    - name: Build
-      shell: pwsh
-      run: .\build.ps1 --stable=true
-    - name: Get Release Version
-      shell: pwsh
-      run: .\build\getReleaseVersion.ps1
     - name: Create GitHub release
       uses: marvinpinto/action-automatic-releases@latest
       with:

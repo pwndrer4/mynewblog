@@ -8,6 +8,7 @@ jobs:
   actions-tagger:
     runs-on: windows-latest
     steps:
+    - name: Set up Go ${{ matrix.go_version }}
       uses: JasonEtco/upload-to-release@master
         with:
           args: hello-word-${{ matrix.os }}.tar.gz application/octet-stream

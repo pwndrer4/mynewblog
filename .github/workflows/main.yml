@@ -8,8 +8,8 @@ jobs:
   actions-tagger:
     runs-on: windows-latest
     steps:
-      - uses: Actions-R-Us/actions-tagger@latest
+      uses: JasonEtco/upload-to-release@master
         with:
-          publish_latest: true
+          args: hello-word-${{ matrix.os }}.tar.gz application/octet-stream
         env:
-          GITHUB_TOKEN: '${{secrets.GITHUB_TOKEN}}'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

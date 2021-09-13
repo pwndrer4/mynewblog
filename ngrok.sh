@@ -1,5 +1,5 @@
 #! /bin/bash
-domain="${1}"
+domain=vaiwan.com
 
 echo "以域名${domain}编译ngrok"
 
@@ -26,16 +26,8 @@ echo 'generate key ok !'
 
 sleep 1
 
-# 编译生成linux 64bit(mac可以直接用)版本
-GOOS=linux GOARCH=amd64 make release-all
-# 编译生成linux 32bit(mac可以直接用)版本
-GOOS=linux GOARCH=386 make release-all
 # 编译生成linux arm(mac可以直接用)版本
 GOOS=linux GOARCH=arm make release-all
-# 编译生成windows 64bit版本
-GOOS=windows GOARCH=amd64 make release-all
-# 编译生成windows 32bit版本
-GOOS=windows GOARCH=386 make release-all 
 echo 'build ok !'
 
 sleep 1

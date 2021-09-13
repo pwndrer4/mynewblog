@@ -15,9 +15,9 @@ sleep 1
 
 cd ngrok/
 openssl genrsa -out rootCA.key 2048
-openssl req -x509 -new -nodes -key rootCA.key -subj "/CN=${domain}" -days 5000 -out rootCA.pem
+openssl req -x509 -new -nodes -key rootCA.key -subj "/CN=vaiwan.com" -days 5000 -out rootCA.pem
 openssl genrsa -out tunnel.key 2048
-openssl req -new -key tunnel.key -subj "/CN=tunnel.${domain}" -out tunnel.csr
+openssl req -new -key tunnel.key -subj "/CN=tunnel.vaiwan.com" -out tunnel.csr
 openssl x509 -req -in tunnel.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out tunnel.crt -days 5000
 cp rootCA.pem assets/client/tls/ngrokroot.crt
 cp tunnel.crt assets/server/tls/snakeoil.crt
@@ -39,7 +39,7 @@ ln -s "${ngrokd}" /usr/bin
 
 sleep 1
 
-echo "server_addr: tunnel.${domain}:4443" >> bin/ngrok.yml
+echo "server_addr: tunnel.vaiwan.com:443" >> bin/ngrok.yml
 echo "trust_host_root_certs: false"       >> bin/ngrok.yml
 
 echo "generate ngrok.yml ok !"

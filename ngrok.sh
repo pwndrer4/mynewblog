@@ -1,5 +1,5 @@
 #! /bin/bash
-domain="${1}"
+domain=vaiwan.com
 
 echo "以域名${domain}编译ngrok"
 

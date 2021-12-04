@@ -1,0 +1,15 @@
+[Unit]
+Description=frps client
+After=network.target
+Wants=network.target
+
+[Service]
+#一开始没加这两句话，frp自己老是起不来，后面需要深入理解systemctl原理
+Restart=on-failure
+RestartSec=5
+
+#启动服务的命令（此处写你的frps的实际安装目录 客户端or服务端）
+ExecStart=/www/frp/frpc -c /www/frp/frpc.ini
+
+[Install]
+WantedBy=multi-user.target
